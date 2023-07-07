@@ -1,4 +1,4 @@
-name: Android CI
+name: Build
 
 env:
   main_project_module: app

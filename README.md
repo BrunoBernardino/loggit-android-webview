@@ -1,6 +1,6 @@
 # Loggit - Android WebView "App"
 
-[![](https://github.com/BrunoBernardino/loggit-android-webview/workflows/Run%20Tests/badge.svg)](https://github.com/BrunoBernardino/loggit-android-webview/actions?workflow=Android+CI)
+[![](https://github.com/BrunoBernardino/loggit-android-webview/workflows/Build/badge.svg)](https://github.com/BrunoBernardino/loggit-android-webview/actions?workflow=Build)
 
 This is a simple WebView wrapper Android "app" for the web app for the [Loggit app](https://loggit.net). You can see the source code for the web app at [BrunoBernardino/loggit-web](https://github.com/BrunoBernardino/loggit-web).
 
